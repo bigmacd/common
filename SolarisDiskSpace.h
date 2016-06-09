@@ -1,4 +1,3 @@
-#ifndef __SOLARISDISKSPACE_H__
 #define __SOLARISDISKSPACE_H__
 
 #include <stdio.h>

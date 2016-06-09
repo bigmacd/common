@@ -1,4 +1,3 @@
-#include "compat.h"
 
 class CBase64  
 {

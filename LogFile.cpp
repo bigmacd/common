@@ -1,4 +1,3 @@
-#ifndef __LOGFILE_H__
 #include "LogFile.h"
 #endif
 

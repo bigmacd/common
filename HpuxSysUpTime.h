@@ -1,4 +1,3 @@
-#ifndef __HPUXSYSUPTIME_H__
 #define __HPUXSYSUPTIME_H__
 
 

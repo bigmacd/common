@@ -1,4 +1,3 @@
-
 #ifndef _NTSERVICE_H_
 #define _NTSERVICE_H_
 

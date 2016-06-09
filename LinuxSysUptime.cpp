@@ -1,4 +1,3 @@
-#ifndef __LINUXSYSUPTIME_H__
 #include "LinuxSysUptime.h"
 #endif
 

@@ -1,4 +1,3 @@
-#ifndef __IRIXSYSUPTIME_H__
 #define __IRIXSYSUPTIME_H__
 
 

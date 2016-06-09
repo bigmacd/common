@@ -1,4 +1,3 @@
-#ifndef __PING_H__
 #include "Ping.h"
 #endif
 

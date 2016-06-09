@@ -1,4 +1,3 @@
-
 #include "Base64.h"
 
 // Digits...

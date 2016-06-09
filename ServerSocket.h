@@ -1,4 +1,3 @@
-
 #include <winsock.h>
 
 class ServerSocket

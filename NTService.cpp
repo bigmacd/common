@@ -1,7 +1,3 @@
-// NTService.cpp
-//
-// Implementation of CNTService
-
   //#include <windows.h>
 //#include <afxwin.h>
 #include <stdio.h>

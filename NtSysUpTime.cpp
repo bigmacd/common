@@ -1,4 +1,3 @@
-#ifndef __NTSYSUPTIME_H__
 #include "NtSysUpTime.h"
 #endif
 

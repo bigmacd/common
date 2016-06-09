@@ -1,4 +1,3 @@
-
 #include "perfmon.h"
 
 CPerfMon::CPerfMon()

@@ -1,4 +1,3 @@
-#include <afxwin.h>
 #include "StaticLink.h"
 
 IMPLEMENT_DYNAMIC(CStaticLink, CStatic)

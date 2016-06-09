@@ -1,4 +1,3 @@
-#ifndef __SOLARISSYSUPTIME_H__
 #include "SolarisSysUpTime.h"
 #endif
 

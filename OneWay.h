@@ -1,13 +1,3 @@
-//  File: OneWay.h
-//
-//  Declarations for OneWay DLL
-//  
-//  For Visual C++ and Borland C++
-//
-//
-//  Purpose: OneWay.dll Header file
-//
-#pragma warning(disable: 4786)
 
 #ifdef __cplusplus
 extern "C" {            
