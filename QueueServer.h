@@ -10,11 +10,12 @@ class QueueServer
 
   private:
 
-    HANDLE      mMailSlotHandle;
 
   protected:
 
   public:
+
+	HANDLE      mMailSlotHandle;
 
     QueueServer(const char* type, const char* name, BOOL nonNull = FALSE);
     ~QueueServer();
