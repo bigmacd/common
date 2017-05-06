@@ -1,3 +1,4 @@
+#ifndef __FREEBSDSYSUPTIME_H__
 #define __FREEBSDSYSUPTIME_H__
 
 

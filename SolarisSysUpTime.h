@@ -1,3 +1,4 @@
+#ifndef __SOLARISSYSUPTIME_H__
 #define __SOLARISSYSUPTIME_H__
 
 

@@ -1,3 +1,4 @@
+#ifndef __CLIENTSOCKET_H__
 #define __CLIENTSOCKET_H__
 
 #ifdef _WIN32

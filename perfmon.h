@@ -1,3 +1,4 @@
+#ifndef _PERFMON_H
 #define _PERFMON_H
 
 //#include "stdafx.h"

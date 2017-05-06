@@ -1,3 +1,4 @@
+#ifndef __LINUXSYSUPTIME_H__
 #define __LINUXSYSUPTIME_H__
 
 

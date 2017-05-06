@@ -1,3 +1,4 @@
+#ifndef __NTSYSUPTIME_H__
 #define __NTSYSUPTIME_H__
 
 //#define SYSUPTIME "\\System\\System Up Time" 

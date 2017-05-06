@@ -1,3 +1,4 @@
+#ifndef __HPUXSYSUPTIME_H__
 #include "HpuxSysUpTime.h"
 #endif
 

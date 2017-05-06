@@ -1,3 +1,4 @@
+#ifndef __CLIENTSOCKET_H__
 #include "ClientSocket.h"
 #endif
 

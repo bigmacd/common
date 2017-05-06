@@ -1,3 +1,4 @@
+#ifndef __SMTP_H__
 #define __SMTP_H__
 
 #include "Thread.h"

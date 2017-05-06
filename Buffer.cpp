@@ -1,3 +1,4 @@
+#ifndef __BUFFER_H__
 #include "Buffer.h"
 #endif
 
